@@ -17,7 +17,7 @@ class DXDOneViewController: UIViewController,UITableViewDelegate,UITableViewData
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.white
         
-        self.cardArray = ["11","22","33"];
+        self.cardArray = ["11","22","33","44"];
         
         
         
